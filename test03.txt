@@ -2,3 +2,4 @@
 stage01 branch - 처음 내용 입력
 stage01 branch - 두번째 내용 입력
 stage02 branch - 브랜치 생성, 처음 내용 입력
+stage02 branch - 두번째 내용 입력
